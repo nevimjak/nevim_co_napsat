@@ -1,0 +1,4 @@
+database_host=vps.hintik.cz
+database_user=nevimjak
+database_pass=gjfWJ]@eYtk72yG[
+database_schema=RobertChat
