@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f10cd33-f9b2-45c1-9651-922c2a500519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databazovy_projekt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChatGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    <list default="true" id="3f10cd33-f9b2-45c1-9651-922c2a500519" name="Changes" comment="nevim co dělám, fakt supr&#10;:)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,8 @@
     "last_opened_file_path": "C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.23.jar",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -77,6 +72,21 @@
       <option name="presentableId" value="Default" />
       <updated>1678894775015</updated>
     </task>
+    <task id="LOCAL-00001" summary="nevim co dělám, fakt supr&#10;:)">
+      <created>1678894994370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894994370</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nevim co dělám, fakt supr&#10;:)">
+      <created>1678897549099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678897549099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nevim co dělám, fakt supr&#10;:)" />
+    <option name="LAST_COMMIT_MESSAGE" value="nevim co dělám, fakt supr&#10;:)" />
   </component>
 </project>
