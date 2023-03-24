@@ -9,11 +9,7 @@ Aplikace je uzpůsobena pro tvoření a práci s uživateli v samotné databázi
 
 ### Spuštění aplikace
 Pro spuštění aplikace a správný chod je zapotřebí mít nainstalovanou verzi Javy 11.
-Aplikace se spustí v přikazové řádce pomocí příkazu:
-
-```bash
-java -jar "Cesta k .jar souboru"
-```
+Aplikace se spustí dvojitým poklepáním na project.jar (je zapotřeba mít project.jar a config.txt v jedné složce)
 
 ### Dokumentace zdrojového kódu
 
